@@ -99,13 +99,7 @@
                     </tr>
                 </table>
             </div>
-            <div class="project">
-                <ul>
-                    <li>
-
-                    </li>
-                </ul>
-            </div>
+            
         </div>
     </div>
 </body>
