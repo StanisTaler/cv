@@ -1,1 +1,1 @@
-https://StanisTaler.github.io/cv.git
+https://StanisTaler.github.io/cv
