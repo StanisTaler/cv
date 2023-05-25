@@ -19,8 +19,8 @@
             </div>
             <div class="Contact">
                 <h2>Contact</h2>
-                <p><b>Email id:</b>xyz@gmail.com</p>
-                <p><b>Mobile no :</b>1234567890</p>
+                <p><b>Email id:</b>optimstan@gmail.com</p>
+                <p><b>Mobile no :</b>375298887456</p>
             </div>
             <div class="Skills">
                 <h2>Skills</h2>
@@ -36,14 +36,14 @@
                 <h2>Language</h2>
                 <ul>
                     <li>English</li>
-                    <li>Hindi</li>
+                    <li>Belarusian</li>
                 </ul>
             </div>
             <div class="Hobbies">
                 <h2>Hobbies</h2>
                 <ul>
-                    <li>Playing cricket</li>
-                    <li>Swimming</li>
+                    <li>Playing videogames</li>
+                    <li>Workout</li>
                 </ul>
             </div>
         </div>
