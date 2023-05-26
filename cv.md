@@ -1,10 +1,10 @@
-# Виктория Журавлева
+# Станислав Талерчик
 # CONTACTS
 - Vitebs, Belarus
 
-- Email: valeria.kovalenkogit@gmail.com
+- Email: optimstan@gmail.com
 
-- Github: https://github.com/ViktoriaJuravleva
+- Github: https://github.com/StanisTaler
 
 # SUMMARY
 > I am a student of information resources management at P.M. Masherov University of Economics and Finance. My goal is to become a professional IT-specialist and contribute to the development of the IT-industry. I am passionate about programming and strive to constantly learn and improve. My strengths are assiduity, responsibility, ease of learning, and communication skills.
@@ -37,7 +37,7 @@ int main() {
 
 # PROJECTS
 
-Моё СV на GitHub: [https://github.com/ViktoriaJuravleva/CV/blob/markdowm-cv/cv.md](https://github.com/ViktoriaJuravleva/CV/blob/markdowm-cv/cv.md)
+Моё СV на GitHub: [https://github.com/StanisTaler/cv/blob/markdowm-cv/cv.md](https://github.com/StanisTaler/CV/blob/markdowm-cv/cv.md)
 
 # EDUCATION
 
