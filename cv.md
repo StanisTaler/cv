@@ -1,107 +1,110 @@
+<!DOCTYPE html>
 <html lang="en">
- 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="resume.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+    <title>Document</title>
 </head>
- 
 <body>
-    <div class="full">
-        <div class="left">
-            <div class="image">
-                <img src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20220202083519/gfglogo.png"
-                     alt="gfg-logo"
-                     style="width:100px;height:100px;">
-            </div>
-            <div class="Contact">
-                <h2>Contact</h2>
-                <p><b>Email id:</b>optimstan@gmail.com</p>
-                <p><b>Mobile no :</b>375298887456</p>
-            </div>
-            <div class="Skills">
-                <h2>Skills</h2>
-                <ul>
-                    <li><b>Programming Languages :
-                      Python, Java, C++</b></li>
-                    <li><b>Frontend : HTML5, CSS3,
-                      JavaScript, React</b></li>
-                    <li><b>Backend : Node.js</b></li>
-                </ul>
-            </div>
-            <div class="Language">
-                <h2>Language</h2>
-                <ul>
-                    <li>English</li>
-                    <li>Belarusian</li>
-                </ul>
-            </div>
-            <div class="Hobbies">
-                <h2>Hobbies</h2>
-                <ul>
-                    <li>Playing videogames</li>
-                    <li>Workout</li>
-                </ul>
-            </div>
-        </div>
-        <div class="right">
-            <div class="name">
-                <h1>GeeksforGeeks</h1>
-            </div>
-            <div class="title">
-                <p>Web Developer</p>
-            </div>
-            <div class="Summary">
-                <h2>Summary</h2>
-                <p>To secure a challenging position in a
-                  reputable organization
-                    to expand my learning knowledge and skill
-                </p>
-            </div>
-            <div class="Experience">
-                <h2>Experience</h2>
-                <h3>Abc webdev pvt ltd - Senior Web Developer</h3>
-                <p>January 2022 to Present</p>
-                <ul>
-                    <li>Actively engaged in web creative
-                      design and development.</li>
-                    <li>Designing project & planning</li>
-                </ul>
-                <h3>Xyz webdev pvt ltd - junior web developer</h3>
-                <p>August 2021 to December 2021</p>
-                <ul>
-                    <li>Actively engaged in web creative
-                      design and development.</li>
-                    <li>Designing project & planning</li>
-                    <li>Working on designing</li>
-                </ul>
-            </div>
-            <div class="Education">
-                <h2>Education</h2>
-                <table>
-                    <tr>
-                        <th>University/college  </th>
-                        <th>Passing year  </th>
-                        <th>percentage/cgpa</th>
-                    </tr>
-                    <tr>
-                        <td>xyz</td>
-                        <td>2020</td>
-                        <td>8.9</td>
-                    </tr>
-                    <tr>
-                        <td>pqr</td>
-                        <td>2018</td>
-                        <td>89%</td>
-                    </tr>
-                </table>
-            </div>
-            
-        </div>
+  <nav class="navbar">
+    <ul class="nav-links">
+      <li><a class="nav1" href="#nav1">CONTACTS</a></li>
+      <li><a class="nav2" href="#nav2">SUMMARY</a></li>
+      <li><a class="nav3" href="#nav3">SKILLS</a></li>
+      <li><a class="nav4" href="#nav4">CODE</a></li>
+      <li><a class="nav4" href="#nav4">COURSES</a></li>
+      <li><a class="nav5" href="#nav5">PROJECTS</a></li>
+      <li><a class="nav6" href="#nav6">EDUCATION</a></li>
+      <li><a class="nav7" href="#nav7">ENGLISH</a></li>
+    </ul>
+    <div class="burger">
+      <div class="line1"></div>
+      <div class="line2"></div>
+      <div class="line3"></div>
     </div>
+  </nav>
+
+  <section class="info-section">
+    <div class="info-img">
+      <img src="./photo_2023-05-12_14-06-07.jpg" alt="Your image">
+    </div>
+    <div class="info-text">
+      <h2>Станислав Талерчик</h2>
+      <p>Студент 1 курса УИР ВГУ им. П. М. Машерова</p>
+    </div>
+  </section>
+  
+  
+  <hr>
+  <div class="section-container">
+    <section class="section">
+      <h2 id="nav1">CONTACTS</h2>
+      <ul>
+        <li>Vitebs, Belarus</li>
+        <li>Email: <a href="mailto:viktoria.juravlevagit@gmail.com" class="link_git">viktoria.juravlevagit@gmail.com</a></li>
+        <li>Github: <a href="https://github.com/ViktoriaJuravleva" class="link_git">https://github.com/ViktoriaJuravleva</a> </li>
+      </ul>
+    </section>
+    <section class="section">
+      <h2 id="nav2">SUMMARY</h2>
+      <p>I am a student of information resources management at VSU named after P.M. Masherov . My goal is to become a professional IT-specialist and contribute to the development of the IT-industry. I am passionate about programming and strive to constantly learn and improve. My strengths are assiduity, responsibility, ease of learning, and communication skills.</p>
+    </section>
+    <section class="section">
+      <h2 id="nav3">SKILLS</h2>
+      <ul>
+        <li>C++</li>
+        <li>HTML</li>
+        <li>CSS</li>
+      </ul>
+      
+    </section>
+    <section class="section">
+      <h2 id="nav4">CODE</h2>
+      <h1>My Factorial program</h1>
+    <pre>
+      int factorial(int n) {
+        if(n == 0 || n == 1)
+            return 1;
+        else
+            return n * factorial(n-1);
+    }
+    
+    int main() {
+        int n;
+        cout << "Введите число: ";
+        cin >> n;
+        cout << "Факториал " << n << " равен " << factorial(n) << endl;
+        return 0;
+    }
+    </pre>
+    </section>
+    <section class="section">
+      <h2 id="nav5">COURSES</h2>
+      <ul>
+        <li>Экономика организации</li>
+        <li>Основы алгоритмизации и программирования</li>
+      </ul>
+    </section>
+    <section class="section">
+      <h2 id="nav6">PROJECTS</h2>
+      <p>Моё СV на GitHub: <a class="link_git" href="https://viktoriajuravleva.github.io/CV/cv">https://viktoriajuravleva.github.io/CV/cv</a></p>
+    </section>
+    <section class="section">
+      <h2 id="nav7">EDUCATION</h2>
+      <p>Vitebsk State University named after P.M. Masherov</p>
+    </section>
+    <section class="section">
+      <h2 id="nav8">ENGLISH</h2>
+      <p>A2+ Pre-Intermediate</p>
+    </section>
+  </div>
+  <footer class="footer">
+    <div class="container footer-container"><div>© 2023 <a href="https://github.com/ViktoriaJuravleva" class="github nav-link">ViktoriaJuravleva</a></div></div>
+  </footer>
 </body>
- 
 </html>
