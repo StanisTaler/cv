@@ -30,7 +30,7 @@ img {
   justify-content: center;
   align-items: center;
   padding: 50px;
-  background-color: #f7f7f7;
+  background-color: #ffff00;
 }
 
 .info-img {
@@ -164,7 +164,7 @@ hr{
 }
 
 .nav-links a {
-  color: #fff;
+  color: #ff0;
   text-decoration: none;
   font-size: 18px;
   margin-left: 20px;
@@ -178,7 +178,7 @@ hr{
   .burger div {
   width: 25px;
   height: 3px;
-  background-color: #fff;
+  background-color: #ff0;
   margin: 5px;
   transition: all 0.3s ease;
   }
